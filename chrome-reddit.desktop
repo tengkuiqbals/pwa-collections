@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Reddit
+Keywords=forum;
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=lgnggepjiihbfdbedefdhcffnmhcahbm
+Icon=/home/tengkuiqbal/Apps/icon/reddit.png
+StartupWMClass=crx_lgnggepjiihbfdbedefdhcffnmhcahbm
